@@ -1,0 +1,62 @@
+
+body{
+	background-image: url("https://i.pinimg.com/originals/a8/96/ca/a896cab102f1aafce13b1227a365dd74.jpg");
+    background-size: cover;
+   }
+.container{
+    width:450px;
+    background-color: rgba(24, 33, 52, 0.7);
+    margin: 100px auto 0 auto;
+    text-align: center;
+    box-shadow: 0 -5px 0 #5f696b;
+    padding-bottom: 5px;
+    
+   }
+.signUp{
+	color: #2ca8c6;
+	font-size:30pt;
+	font-family: AlundraText, sans-serif;
+	src: url (19151.ttf);  
+}
+.rules2 {
+	font-family: 'Antonio', sans-serif;
+    width: 4.5px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 800;
+    font-size: 50px;
+    background: repeating-linear-gradient(#2ca8c6, rgb(109, 152, 158) 2px, #686d6e  5px);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #183D58;
+}
+.img{
+	width: 80%;
+    padding-bottom: 20px;
+}
+.container1{
+    position: relative;
+    left: 50%;
+    margin-top: 30px;
+    transform: translate(-50%,-50%);
+    text-align: center;
+  }
+  .btn{
+    border: none;
+    padding: 24px;
+    width: 220px;
+    font-family: "Satisfy",sans-serif;
+    text-transform: uppercase;
+    border-radius: 6px;
+    cursor: pointer;
+    color: #fff;
+    background-size: 200%;
+    transition: 0.6s;
+    background-image: linear-gradient(to left,#12CBC4,#0652DD,#12CBC4);
+    font-size: 11pt;
+  }
+  .btn:hover{
+    background-position: right;
+  }
+  
+
